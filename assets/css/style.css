@@ -1,0 +1,59 @@
+.body {
+font-family: 'Roboto', sans-serif;}
+.logo_white {
+    width: 86px;
+}
+.fondo_nav{
+    background-color: #28A745;
+}
+
+/* sección principal */
+.precio_1{
+    text-decoration: none;
+    font-size:16px;
+    font-weight: 300;
+    color: #707070;
+}
+.precio_2 {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+}
+.img_footer {
+    width: 82px;
+}
+.caja {
+    padding: 15px;
+}
+.descripción_caja {
+    font-size: 20px;
+    font-weight: 300;
+}
+.subtitulo {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.direction{
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.col-custom {
+    margin-bottom: 30px;
+}
+
+.cards-row {
+    margin-top: 18px;
+}
+
+.linea {
+    padding: 0 15px;
+}
+
+.precio {
+    padding-top: 0;
+}
